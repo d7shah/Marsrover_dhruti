@@ -5,7 +5,7 @@ require 'Marsrover_dhruti/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "Marsrover_dhruti"
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ["Dhruti Shah"]
   spec.email         = ["dhrutishah10@gmail.com"]
   spec.summary       = %q{Marsrover gem}

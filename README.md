@@ -1,6 +1,6 @@
 # MarsroverDhruti
 
-TODO: Write a gem description
+TODO: Marsrover challenge
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: It can be used as a solution for Marsrover challenge
 
 ## Contributing
 
